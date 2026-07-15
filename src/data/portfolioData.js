@@ -108,7 +108,7 @@ export const projects = [
   title: "Personal Portfolio Website",
   tag: "React.js",
   description: "Designed and developed a fully responsive personal portfolio website using React.js.",
-  github: "https://github.com/yourusername/portfolio",
+  github: "https://github.com/dharun18vk/Dharun_portfolio_react",
   tools: ["React", "Vite", "Tailwind CSS"],
   points: [
     "Responsive design",
