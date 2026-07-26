@@ -19,12 +19,12 @@ export const profile = {
 }
 
 export const skills = [
-  { group: 'Languages', items: ['Python', 'Java']},
-  { group: 'Frontend', items: ['HTML', 'CSS', 'React']},
-  { group: 'Backend', items: ['Flask', 'REST API', 'Node.js']},
-  { group: 'Databases', items: ['MongoDB', 'MySQL']},
-  { group: 'Machine Learning', items: ['TensorFlow', 'OpenCV', 'CNN Architecture']},
-  { group: 'DevOps & Tools', items: ['GitHub', 'Vercel', 'Postman', 'VS Code', 'Colab', 'Cursor']},
+  { group: 'Programming Languages', items: ['Python', 'Java'] },
+  { group: 'AI & Machine Learning', items: ['Model Training', 'Model Evaluation', 'CNNs', 'TensorFlow', 'Scikit-learn', 'OpenCV', 'NumPy', 'Pandas', 'Data Preprocessing'] },
+  { group: 'Web Technologies', items: ['React', 'HTML', 'CSS'] },
+  { group: 'Databases', items: ['MongoDB', 'MySQL'] },
+  { group: 'Tools & Platforms', items: ['Git', 'GitHub', 'Google Colab', 'VS Code', 'Cursor', 'Postman', 'Vercel'] },
+  { group: 'Soft Skills', items: ['Problem Solving', 'Critical Thinking', 'Quick Learning', 'Analytical Thinking', 'Communication', 'Time Management'] },
 ]
 
 export const experience = [
